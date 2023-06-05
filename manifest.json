@@ -1,9 +1,9 @@
 {
-    "name": "meals_app",
-    "short_name": "meals_app",
+    "name": "mealsapp_riverpod",
+    "short_name": "mealsapp_riverpod",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
+    "background_color": "#ffffff",
     "theme_color": "#0175C2",
     "description": "A new Flutter project.",
     "orientation": "portrait-primary",
